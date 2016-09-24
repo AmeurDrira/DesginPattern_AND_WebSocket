@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/saaj.jar"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/axis-ant.jar"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/axis.jar"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/commons-discovery.jar"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="/Users/ameur/Downloads/tpIP2Geo/log4j-1.2.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

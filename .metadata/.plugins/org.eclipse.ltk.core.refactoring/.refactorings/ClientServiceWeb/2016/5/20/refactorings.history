@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;tn.iit.serviceweb&apos; to &apos;com.cdyne.ws&apos;&#x0A;- Original project: &apos;ClientServiceWeb&apos;&#x0A;- Original element: &apos;ClientServiceWeb/src/tn.iit.serviceweb&apos;&#x0A;- Renamed element: &apos;ClientServiceWeb/src/com.cdyne.ws&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;tn.iit.serviceweb&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;tn.iit.serviceweb" name="com.cdyne.ws" qualified="false" references="true" stamp="1463585969028" textual="false" version="1.0"/>
+</session>
